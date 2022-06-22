@@ -1,0 +1,35 @@
+.back-black {
+    background-color: black;
+}
+
+.back-1 {
+    background-color: #abd659;
+}
+
+.back-2 {
+    background-color: #1ba29c;
+}
+
+.back-3 {
+    background-color: gray;
+}
+
+.object h2 {
+    font-size: 20px;
+}
+
+.object p {
+    font-size: 10px;
+    font-weight: 500;
+    color: gray;
+}
+
+.bg-image {
+    background-image: url(image/ddg-bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.container span {
+    background-color: #99cc23;
+}
