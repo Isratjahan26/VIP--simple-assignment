@@ -1,18 +1,6 @@
-1.status check if yes then foeward to 4 step
-if no then go to 2nd step
-
-2. git clone "repo link"
-after cloning the repo to the local pc 
-then again do step 1.
- if again no then go to step 3
-
-3.get to the repo-clone folder using 'ls' & 'cd'cmd command
-
-4.check the repo-clone files can u access it or not!!!!
-
-
-#note:
-1.add- (git add filename).....add file into a staging/queue 
-2.commite-(git commit -m 'name.....') ......save the changes to the local repo-clone and also gives a chance to add version
-3.log- (git log) .....checks the commiting details about the local repo-clone file 
-4.push- (git push)...finaly it pushes the local repo-clone file to the real git repo account 
+git file remove
+1.git remote -v
+2.ls -l
+3.git rm -r 'filename which want to delete'
+4.git commit -m 'anything......'
+5.git push origin main
